@@ -4,7 +4,7 @@
 [![Game](https://img.shields.io/badge/Game-Snake-red?style=flat-square)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-A simple, modern clone of the classic Snake game built in Java using Swing. Navigate the snake across a tile-based grid, collect food, and grow longer while avoiding collisions. Clean codebase with object-oriented structure and smooth controls.
+Classic Snake game built in Java using Swing. Navigate the snake across a tile-based grid, collect food, and grow longer while avoiding collisions.
 
 ---
 
